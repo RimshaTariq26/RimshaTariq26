@@ -100,20 +100,20 @@ My work combines **research and engineering**, including model development, expe
 
 ## 📚 Publications
 
-- **CloudUP — Upsampling Vibrant Color Point Clouds Using Multi-Scale Spatial Attention**  
-  [📄 Paper](https://doi.org/10.1109/ACCESS.2023.3332141)
+- **CloudUP — Upsampling Vibrant Color Point Clouds Using Multi-Scale Spatial Attention**
+  *IEEE Access, 2023* · [📄 Paper](https://doi.org/10.1109/ACCESS.2023.3332141)
 
-- **Resource-Restricted Environments Based Memory-Efficient Compressed Convolutional Neural Network Model for Image-Level Object Classification**  
-  [📄 Paper](https://doi.org/10.1109/ACCESS.2022.3230008)
+- **Resource-Restricted Environments Based Memory-Efficient Compressed Convolutional Neural Network Model for Image-Level Object Classification**
+  *IEEE Access, 2022* · [📄 Paper](https://doi.org/10.1109/ACCESS.2022.3230008)
 
-- **Masked Face Detection and Recognition Using a Unified Feature Extractor**  
-  [📄 IEEE Xplore](https://ieeexplore.ieee.org/document/10473243/)
+- **Masked Face Detection and Recognition Using a Unified Feature Extractor**
+  *[Conference name], [year]* · [📄 IEEE Xplore](https://ieeexplore.ieee.org/document/10473243/)
 
-- **Classification of 4 Types of White Blood Cell Images**  
-  [📄 arXiv](https://arxiv.org/abs/2409.13442)
+- **Classification of 4 Types of White Blood Cell Images**
+  *arXiv, 2024* · [📄 arXiv](https://arxiv.org/abs/2409.13442)
 
-- **Reconfigurable Architecture for Real-time Decoding of Canonical Huffman Codes**  
-  [📄 Paper](https://doi.org/10.1109/ICoDT255437.2022.9787442)
+- **Reconfigurable Architecture for Real-time Decoding of Canonical Huffman Codes**
+  *ICoDT2, 2022* · [📄 Paper](https://doi.org/10.1109/ICoDT255437.2022.9787442)
 
 <br/>
 
